@@ -1,0 +1,24 @@
+body{
+    background-image: url(color.jpeg);
+    font-family: Roboto, Helvetica ; sans-serif;
+    font-variant: small-caps;
+    text-shadow: 0 2px #ccc
+}
+h2{
+  color : black;
+}
+.summar-header{
+ font-size;40px
+}
+img{
+ border-radius: 50%;
+}
+nav a {
+text-decoration: none;
+color: black;
+font-size: 24px;
+}
+h1,h2 {
+font-weight: lighter;
+}
+</style>
